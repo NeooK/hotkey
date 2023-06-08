@@ -1,0 +1,28 @@
+body {
+	text-align: center;
+}
+
+.play {
+	font-family: 'Play', sans-serif;
+}
+
+.outfit {
+	font-family: 'Outfit', sans-serif;
+}
+
+.field {
+}
+
+.explfield {
+	display: inline-block;
+	background-color: rgb(216, 82, 82);
+}
+
+.hK1 {
+}
+
+.hK2 {
+}
+
+.hK3 {
+}
