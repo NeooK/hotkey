@@ -29,7 +29,7 @@ body {
 .explfield {
 	display: flex;
 	align-items: center;
-	background-color: rgba(252, 252, 252, 0.205);
+	/* background-color: rgba(252, 252, 252, 0.205); */
 	border-radius: 1px;
 	padding: 2px 5px;
 	width: auto;
